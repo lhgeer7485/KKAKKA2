@@ -283,4 +283,4 @@ feat/S10P12D110-17-signup -> develop
 | 　이수민 | 팀원, <br /> Backend, <br /> PM  | - SSE 이용한 실시간 알림, 확성기 기능 구현(Backend SseEmitter 적용, Frontend EventSourcePolyfill 적용) <br> - 아이템샵 구입(칭호, 강제칭찬권, 확성기) 관련 API 작성 <br> - 칭호 관련 API 작성 <br> - 친구 관련 API 작성 <br> - JUnit 서비스단 단위 테스트 작성 |
 | 　김상훈 | 팀원, <br /> Frontend Lead| - 일렉트론 포팅 및 개발 & PWA 포팅 <br> - 클라이언트 & 라이브 채팅창 연동 <br> - 선행기술 연구 <br> - UCC 제작 |
 | 　김지연 | 팀원, <br /> Frontend, <br /> 서기| - Notion 을 통해 협업 문서 관리 및 회의록 작성<br> - Figma 활용하여 디자인 및 와이어프레임 작성<br> - react-ga4 활용하여 google analytics 적용 <br> - 카카오 로그인 API 활용하여 회원가입 및 로그인 구현<br> - 도감, 댓글 CRUD 개발<br> - React-Query 사용하여 무한 스크롤 구현 <br> - UI, UX 개선  |
-| 　이해건 | 팀원, <br /> Frontend, <br /> 총무| - WebSocket 채팅 프론트 연결 <br> - 메인화면 UI 구현  <br> - 친구목록 UI 구현 <br> - 마이페이지 UI 구현 <br> - 도감 UI 구현  <br> - 아이템샵 UI 구현 <br> - PWA 반응형 모바일 UI |
+| 　이해건 | 팀원, <br /> Frontend, <br /> 총무| - WebSocket 채팅 프론트 담당 <br> - 1:1채팅 UI 구현 <br> - 라이브채팅 UI 구현 <br> - 메인화면 UI 구현  <br> - 친구목록 UI 구현 <br> - 마이페이지 UI 구현 <br> - 도감 UI 구현  <br> - 아이템샵 UI 구현 <br> - PWA 반응형 모바일 UI |
